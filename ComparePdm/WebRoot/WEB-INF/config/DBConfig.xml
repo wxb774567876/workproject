@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0" class="java.beans.XMLDecoder"> 
+ <object class="com.szboanda.platform.tools.sjkbj.bean.DBConfig"> 
+  <void property="destinationDatabase"> 
+   <string>ORCL</string> 
+  </void> 
+  <void property="destinationFlag"> 
+   <string>true</string> 
+  </void> 
+  <void property="destinationIp"> 
+   <string>192.168.1.188</string> 
+  </void> 
+  <void property="destinationName"> 
+   <string>JDBC2</string> 
+  </void> 
+  <void property="destinationPassword"> 
+   <string>U_PLAT1</string> 
+  </void> 
+  <void property="destinationPort"> 
+   <string>1521</string> 
+  </void> 
+  <void property="destinationType"> 
+   <string>ORCLE</string> 
+  </void> 
+  <void property="destinationUsername"> 
+   <string>U_PLAT1</string> 
+  </void> 
+  <void property="sourceDatabase"> 
+   <string>ORCL</string> 
+  </void> 
+  <void property="sourceFlag"> 
+   <string>true</string> 
+  </void> 
+  <void property="sourceIp"> 
+   <string>192.168.1.188</string> 
+  </void> 
+  <void property="sourceName"> 
+   <string>JDBC1</string> 
+  </void> 
+  <void property="sourcePassword"> 
+   <string>U_PLAT</string> 
+  </void> 
+  <void property="sourcePort"> 
+   <string>1521</string> 
+  </void> 
+  <void property="sourceType"> 
+   <string>ORCLE</string> 
+  </void> 
+  <void property="sourceUsername"> 
+   <string>U_PLAT</string> 
+  </void> 
+ </object> 
+</java> 
