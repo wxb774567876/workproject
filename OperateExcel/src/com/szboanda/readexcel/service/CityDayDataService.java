@@ -40,7 +40,7 @@ import java.util.Map;
  * @since:      2018/12/14
  * @version:    V1.0
  */
-public class CityDataService {
+public class CityDayDataService {
     //日志对象
     protected Logger logger = Logger.getLogger(this.getClass());
 
@@ -58,7 +58,7 @@ public class CityDataService {
         initColumnNames();
         initCitysMap();
 
-        CityDataService service = new CityDataService();
+        CityDayDataService service = new CityDayDataService();
         service.recursiveFolder("F:\\work\\05 临时工作安排\\07 补录全国城市、站点历史数据\\全国空气质量（城市日均值）");
     }
 
