@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>主配置文件</comment> 
+	<!-- 系统ID -->
+	<entry key="system.id">AQI</entry>
+	<!-- 系统组织ID -->
+	<entry key="system.orgid">420100</entry>
+	<!-- 需要加载的其他配置文件 -->
+	<entry key="platform.properties_files"><![CDATA[]]></entry>
+	<!-- 数据库名称  -->
+	<entry key="db.username">U_EMDC_BH_0926</entry>
+	<!-- 数据库密码  -->
+	<entry key="db.password">U_EMDC_BH_0926</entry>
+	<entry key="db.driver">oracle.jdbc.driver.OracleDriver</entry>
+	<entry key="db.dburi">jdbc:oracle:thin:@192.168.3.39:1521:SZEPB</entry>
+</properties>
