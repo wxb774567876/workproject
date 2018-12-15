@@ -1,0 +1,10 @@
+sjdj.target.db.username=U_LGHJJC
+sjdj.target.db.password=U_LGHJJC
+sjdj.target.db.driver=oracle.jdbc.driver.OracleDriver
+sjdj.target.db.dburl=jdbc:oracle:thin:@192.168.0.121:1521:ORCL2
+sjdj.request.address=http://203.91.44.4:32004/interface/AQIHourfordivison
+sjdj.request.param.timePoint=
+sjdj.request.param.areaNo=8
+sjdj.request.param.identityCode=lg418CaA82F
+sjdj.request.param.beginDate=2015-05-01
+sjdj.request.param.endDate=
